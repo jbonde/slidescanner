@@ -5,8 +5,8 @@ For those who have the basic components in their studio, it is only necessary to
 
 Complete system equipment list example (with Nikon DX camera)
 
-Easydaq Interface board w. slide remote cable
-Python Control Software
+* Easydaq Interface board w. slide remote cable
+* Python Control Software
 RPi with USBA-USBB cable
 Optical Line-up Bench
 Kodak S-AV 2050 slide projector w. opal glass as heat filter
