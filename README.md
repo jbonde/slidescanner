@@ -1,14 +1,11 @@
-# slidescanner
-Automatic slide scanner with a DSLR and a slide projector
-For fast and easy scanning of traditional 35mm slides. It consists of several standard components that are tied together by an interface box with control software. All hardware is precisely lined up at an optical bench for optimal and parallax free transfers.
+# Slide scanner
+Automatic slide scanning with a DSLR and a slide projector for fast and easy scanning of traditional 35mm slides. The system consists of several standard components that are tied together by an interface box with control software. All hardware is precisely lined up at an optical bench for optimal and parallax free transfers. All mounted 35mm slides are placed in a Kodak Slide tray and the number of slides is selected in the control software. 
 
-All mounted 35mm slides are placed in a Kodak Slide tray and the number of slides is typed in to the control software. All slides are automatically transferred to your preferred library if you are using the Nikon Camera Control Pro 2 or similar camera software as well.
-
-For those who have the basic components in their studio, it is only necessary to add the box and software in order to get started if you own a digital camera, slide projector, bellows and lens.
+For those who have the basic components in their studio, it is only necessary to add the interface board and software in order to get started if you own a digital camera, slide projector, bellows and lens.
 
 Complete system equipment list example (with Nikon DX camera)
 
-A/D Interface Box w. slide remote cable
+Easydaq Interface board w. slide remote cable
 Python Control Software
 RPi with USBA-USBB cable
 Optical Line-up Bench
