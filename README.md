@@ -7,14 +7,14 @@ Complete system equipment list example (with Nikon DX camera)
 
 * Easydaq Interface board w. slide remote cable
 * Python Control Software
-RPi with USBA-USBB cable
-Optical Line-up Bench
-Kodak S-AV 2050 slide projector w. opal glass as heat filter
-Nikon D200 or similar DX camera
-Nikon PB-6  Bellows Focusing Unit
-Nikon BR-2A reverse lens macro adapter ring
-Nikon 105 mm lens (reverse mounted)
-Nikon DR-6 Right Angle Viewfinder
-Nikon MC-22 Remote Cord with Banana Plugs
-Nikon EH-6 AC Adapter
-Image processing software such as Lightroom or Photoshop is recommended for scratch removal etc.
+* RPi with USBA-USBB cable
+* Optical Line-up Bench
+* Kodak S-AV 2050 slide projector w. opal glass as heat filter
+* Nikon D200 or similar DX camera
+* Nikon PB-6  Bellows Focusing Unit
+* Nikon BR-2A reverse lens macro adapter ring
+* Nikon 105 mm lens (reverse mounted)
+* Nikon DR-6 Right Angle Viewfinder
+* Nikon MC-22 Remote Cord with Banana Plugs
+* Nikon EH-6 AC Adapter
+* Image processing software such as Lightroom or Photoshop is recommended for scratch removal etc.
