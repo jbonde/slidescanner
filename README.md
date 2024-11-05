@@ -6,9 +6,9 @@ For those who have the basic components in their studio, it is only necessary to
 Complete system equipment list example (with Nikon DX camera)
 
 * RPi with 3.5" TFT touch screen
-* Python Control Software
+* Python Control Software (slidescan.py)
 * Easydaq USB4SRMxN Interface board
-* Optical Line-up Bench
+* Optical Line-up Bench (DIY)
 * Kodak S-AV 2050 slide projector w. opal glass as heat filter
 * Nikon D200 or similar DX camera
 * Nikon PB-6  Bellows Focusing Unit
