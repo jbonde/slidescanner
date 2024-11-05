@@ -5,9 +5,9 @@ For those who have the basic components in their studio, it is only necessary to
 
 Complete system equipment list example (with Nikon DX camera)
 
-* Easydaq Interface board w. slide remote cable
+* RPi with 3.5" TFT touch screen
 * Python Control Software
-* RPi with USBA-USBB cable
+* Easydaq USB4SRMxN Interface board
 * Optical Line-up Bench
 * Kodak S-AV 2050 slide projector w. opal glass as heat filter
 * Nikon D200 or similar DX camera
@@ -17,4 +17,5 @@ Complete system equipment list example (with Nikon DX camera)
 * Nikon DR-6 Right Angle Viewfinder
 * Nikon MC-22 Remote Cord with Banana Plugs
 * Nikon EH-6 AC Adapter
+* USBA-USBB cable
 * Image processing software such as Lightroom or Photoshop is recommended for scratch removal etc.
