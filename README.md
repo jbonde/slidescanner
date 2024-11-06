@@ -1,5 +1,5 @@
 # Automatic slidescanner
-How to make automatic slide scanning with a DSLR and a slide projector for fast and easy scanning of traditional 35mm slides. 
+How to do automatic slide scanning with a DSLR and a slide projector for fast and easy scanning of traditional 35mm slides. 
 
 The system consists of several standard components that are tied together by an interface box and a Raspberry Pi with python control software. All hardware is lined up at an optical bench for optimal and parallax free transfers. Mounted 35mm slides are placed in a Kodak Slide tray and the number of slides is selected at the touch screen. The chosen number of slides are then scanned automatically whereafter the projector is reset 
 
