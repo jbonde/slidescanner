@@ -1,14 +1,14 @@
 # Slide scanner
 Automatic slide scanning with a DSLR and a slide projector for fast and easy scanning of traditional 35mm slides. The system consists of several standard components that are tied together by an interface box and a Raspberry Pi with control software. All hardware is lined up at an optical bench for optimal and parallax free transfers. Mounted 35mm slides are placed in a Kodak Slide tray and the number of slides is selected in the control software. 
 
-For those who have the basic components in their studio, it is only necessary to add the interface board and software in order to get started if you own a digital camera, slide projector, bellows and lens.
+For those who have the basic components in their studio, it is only necessary to add the interface board and software in order to get started if you own a RPi, digital camera, slide projector, bellows and lens.
 
 Complete system equipment list example (with Nikon DX camera)
 
 * RPi with 3.5" TFT touch screen
-* Python Control Software (slidescan.py)
+* Control Software (slidescan.py)
 * Easydaq USB4SRMxN Interface board
-* Optical Line-up Bench (DIY)
+* Line-up Bench (DIY)
 * Kodak S-AV 2050 slide projector w. opal glass as heat filter
 * Nikon D200 or similar DX camera
 * Nikon PB-6  Bellows Focusing Unit
