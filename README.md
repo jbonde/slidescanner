@@ -1,5 +1,5 @@
 # Slide scanner
-Automatic slide scanning with a DSLR and a slide projector for fast and easy scanning of traditional 35mm slides. The system consists of several standard components that are tied together by an interface box and a Raspberry Pi with control software. All hardware is lined up at an optical bench for optimal and parallax free transfers. Mounted 35mm slides are placed in a Kodak Slide tray and the number of slides is selected in the control software. 
+Automatic slide scanning with a DSLR and a slide projector for fast and easy scanning of traditional 35mm slides. The system consists of several standard components that are tied together by an interface box and a Raspberry Pi with control software. All hardware is lined up at an optical bench for optimal and parallax free transfers. Mounted 35mm slides are placed in a Kodak Slide tray and the number of slides is selected at the touch screen. The chosen number of slides are then scanned automatically whereafter the projector is reset 
 
 For those who have the basic components in their studio, it is only necessary to add the interface board and software in order to get started if you own a RPi, digital camera, slide projector, bellows and lens.
 
