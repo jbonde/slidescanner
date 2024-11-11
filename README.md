@@ -10,7 +10,7 @@ Complete system equipment list example (with Nikon DX camera)
 * RPi4 with 3.5" TFT touch screen
 * Control Software (slidescan.py) 
 * Easydaq USB4SRMxN Interface board
-* Line-up Bench (DIY)
+* Optical Bench (see drawings)
 * Kodak S-AV 2050 slide projector w. opal glass as heat filter
 * Nikon D200 or similar DX camera
 * Nikon PB-6 Bellows Focusing Unit
