@@ -21,3 +21,5 @@ Complete system equipment list example (with Nikon DX camera)
 * Nikon MC-22 Remote Cord with Banana Plugs
 * USBA-USBB cable
 * Image processing software such as Lightroom or Photoshop is recommended for scratch removal etc.
+
+The optical bench is made of MDF wood as a combination of sandwiched 13mm and 22mm pieces. All electronics are mounted on top of the bottom plate besides the bellows in order to make the unit portable alltohough it is heavy. This ensures that line up is unaffected by movements.
