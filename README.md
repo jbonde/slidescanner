@@ -9,7 +9,7 @@ Complete system equipment list example (with Nikon DX camera)
 
 * RPi4 with 3.5" TFT touch screen
 * Control Software (slidescan.py) 
-* Easydaq USB4SRMxN Interface board
+* Easydaq USB4SRMxN Interface board in custom case
 * Optical Bench (for Kodak S-AV 2050, see drawings)
 * Kodak S-AV 2050 slide projector w. opal glass as heat filter
 * Nikon D200 or similar DX camera
@@ -19,6 +19,7 @@ Complete system equipment list example (with Nikon DX camera)
 * Nikon DR-6 Right Angle Viewfinder
 * Nikon EH-6 AC Adapter
 * Nikon MC-22 Remote Cord with Banana Plugs
+* 6P DIN slide projector remote cable
 * USBA-USBB cable
 * Image processing software such as Lightroom or Photoshop is recommended for scratch removal etc.
 
